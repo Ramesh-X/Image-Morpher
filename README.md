@@ -1,4 +1,4 @@
 # Image-Morpher
 Image Morphing application using Python
 
-run <code>python morph/Main.py </code>
+run <code>python -m morph.Main </code>
